@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fatin Humairah
 =======================================================================================================================================
-![Alt text for the image](https://github.com/fatinnorhisham/fatinhumairah/blob/985a86cca160facd80f4f70b6259717497855a97/utm%20matters.jpg)
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/fatinnorhisham/fatinhumairah/blob/985a86cca160facd80f4f70b6259717497855a97/utm%20matters.jpg)" width=50% height=50%>
 
 Bachelor Student in Universiti Teknologi Malaysia
 --------------------------------------------------
