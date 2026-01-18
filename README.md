@@ -25,4 +25,18 @@ I'm first year student of Bachelor of Computer Networking and Security
 1) Sekolah Menengah Kebangsaan Pandan Indah
 2) Asasi Sains Fizikal , Universiti Teknologi Malaysia
 
+## Position ##
+1) Pembimbing Rakan Sebaya
+2) Pengerusi Silat Gayong Fatani
+3) Juruaudit Kelab Taekwondo WTF
+4) Ahli Jawatankuasa Kelab Fotografi
+5) Ahli Jawatankuasa Kelab Badminton
+
+## Award ##
+1) Anugerah Sahsia Terpuji
+2) Anugerah Murid Cemerlang SPM
+3) Anugerah Kokurikulum
+
+
+
 
