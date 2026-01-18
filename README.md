@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fatin Humairah
 =======================================================================================================================================
 
-Bachelor Student in University Technology Malaysia
+Bachelor Student in Universiti Teknologi Malaysia
 --------------------------------------------------
 
 I'm first year student of Bachelor of Computer Networking and Security
